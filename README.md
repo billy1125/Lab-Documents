@@ -6,6 +6,8 @@
 
 - [實驗室新生說明](Please-Read-First.md)：理解實驗室文化、期待與基本運作方式 (必看)
 - [實驗室設備管理與借用規範](Equipments-Management-Principle.md)：理解設備使用、責任歸屬與基本底線 
+- [研究記錄說明(草稿)](Research-Record.md)
+- [研究紀錄模板(草稿)](Research-Record-Template.md)
 
 ## 說明
 
