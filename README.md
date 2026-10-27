@@ -1,5 +1,7 @@
 # 呂卓勳老師實驗室管理規範
 
+**中文** | [English](README-EN.md)
+
 > 本文件為實驗室基本規範入口，請所有成員定期閱讀與更新理解
 
 ## 重要：文件清單 (請務必閱讀)
@@ -10,6 +12,7 @@
 - [實驗室設備管理與借用規範](Equipments-Management-Principle.md)：理解設備使用、責任歸屬與基本底線
 - [研究記錄說明(草稿)](Research-Record.md)
 - [研究紀錄模板(草稿)](Research-Record-Template.md)
+- [碩士論文建議進度(草稿)](Masters-Research-Milestones.md)
 
 ### 大學生專題團隊
 
